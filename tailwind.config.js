@@ -4,7 +4,6 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      NanumGothicBold: ["NanumGothicBold"],
       PaperlogyExtraBold: ["Paperlogy-8ExtraBold"]
     }
   },
