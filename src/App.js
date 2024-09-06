@@ -1,23 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import Portfolio from "./Portfolio";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex flex-col w-full items-center">
+      <div className="fixed w-full h-3 bg-gradient-to-r from-sky-700 to-cyan-100"></div>
+      <Portfolio />
+      <div className="w-full h-10 bg-gradient-to-l from-sky-700 to-cyan-100 mt-20"></div>
     </div>
   );
 }
