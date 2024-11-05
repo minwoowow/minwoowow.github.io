@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { SiSpringboot, SiMysql } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Portfolio() {
 
@@ -12,7 +13,16 @@ export default function Portfolio() {
   const listStyle = "list-inside list-disc marker:text-sky-700 mt-4";
 
   return (
-    <div className="flex flex-col w-2/5 mt-16">
+    <div className="flex flex-col w-2/5 mt-16 font-[Paperlogy-8ExtraBold]">
+      <div className="absolute bottom-28 right-[450px]">
+        <button className="fixed w-40 h-12 border-2 rounded-lg bg-black text-white transition-all duration-300 hover:bg-black/70">
+          <Link to='/resume'>이력서 바로가기</Link>
+          <span class="absolute -top-1 -right-1 flex h-4 w-4">
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-400 opacity-75"></span>
+            <span class="relative inline-flex rounded-full h-4 w-4 bg-sky-500"></span>
+          </span>
+        </button>
+      </div>
       <div className="text-6xl font-bold leading-tight">
         안녕하세요!
         <br />
@@ -67,7 +77,7 @@ export default function Portfolio() {
             Java
           </p>
           <ul className={listStyle}>
-            <li>OOP의 특징을 통해 코드의 재사용성과 유지보수성을 높이는 개념을이해하고 있습니다.</li>
+            <li>OOP의 특징을 통해 코드의 재사용성과 유지보수성을 높이는 개념을 이해하고 있습니다.</li>
             <li>배열, 리스트, 스택, 큐 등을 활용하여 데이터 삽입, 삭제, 검색을 구현할 수 있습니다.</li>
             <li>문제해결을 위한 알고리즘을 도출하는 것에 매우 흥미를 느끼고 꾸준히 학습하고 있습니다.</li>
             <li>Dijkstra 알고리즘을 활용해 부산시 지하철 최단경로 탐색을 구현했습니다.</li>
