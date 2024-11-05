@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4ca1f29.css",
-    "main.js": "/static/js/main.6f360127.js",
+    "main.css": "/static/css/main.03fc4059.css",
+    "main.js": "/static/js/main.bc5bd928.js",
     "static/media/MainPage.png": "/static/media/MainPage.31208800a2533eda4394.png",
     "static/media/metronom_index_page.png": "/static/media/metronom_index_page.c58bf6015f06b8c6b259.png",
+    "static/media/portrait.jpg": "/static/media/portrait.4ce64abca098b47f5150.jpg",
     "index.html": "/index.html",
-    "main.a4ca1f29.css.map": "/static/css/main.a4ca1f29.css.map",
-    "main.6f360127.js.map": "/static/js/main.6f360127.js.map"
+    "main.03fc4059.css.map": "/static/css/main.03fc4059.css.map",
+    "main.bc5bd928.js.map": "/static/js/main.bc5bd928.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4ca1f29.css",
-    "static/js/main.6f360127.js"
+    "static/css/main.03fc4059.css",
+    "static/js/main.bc5bd928.js"
   ]
 }
