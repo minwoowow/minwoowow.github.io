@@ -175,8 +175,8 @@ export default function Portfolio() {
       </div>
       <div className="mt-16">
         <p className={titleStyle}>Experience</p>
-        <p className="text-2xl font-bold mt-10 mb-4">다양한 산업에서의 11년 경력</p>
-        제조업에서 6년, 유통/물류 분야에서 5년 동안 다양한 실무 경험을 쌓았습니다.
+        <p className="text-2xl font-bold mt-10 mb-4">다양한 산업에서의 9년 경력</p>
+        제조업에서 4년, 유통/물류 분야에서 5년 동안 다양한 실무 경험을 쌓았습니다.
         이를 통해 프로젝트 관리, 프로세스 최적화, 효율적인 문제 해결능력을 기르게 되었으며,
         이러한 경험은 개발자로서 회사의 요구에 신속하고 유연하게 대응하는 데 큰 강점이 될 것입니다.
         <p className="text-2xl font-bold mt-10 mb-4">문제 해결 및 커뮤니케이션</p>
