@@ -40,7 +40,7 @@ export default function Resume() {
             <p>프레쉬 상품 김해센터, 쿠팡 자회사</p>
             <ul className='font-["PaperLogy-4Regular"] space-y-2'>
               <li><span className='text-sky-600 mr-2'>▪</span>WMS 기반 데이터 가공 및 분석</li>
-              <li><span className='text-sky-600 mr-2'>▪</span>물동량 Forcast 및 Manpower Plan 수립</li>
+              <li><span className='text-sky-600 mr-2'>▪</span>물동량 Forecast 및 Manpower Plan 수립</li>
               <li><span className='text-sky-600 mr-2'>▪</span>입출고에서 분류 및 적재에 이르는 전반적인 물류 프로세스 최적화</li>
               <li><span className='text-sky-600 mr-2'>▪</span>라인밸런싱 등을 위한 효율적인 Layout 개선활동</li>
             </ul>
@@ -66,11 +66,11 @@ export default function Resume() {
 
         <div className='flex mt-10'>
           <div className='w-1/4'>
-            <p className='text-xl text-gray-600'>2016.06 ~ 2017.07</p>
+            <p className='text-xl text-gray-600'>2016.06 ~ 2017.06</p>
           </div>
           <div className='flex flex-col w-3/4 pl-20 mb-10'>
-            <p className='text-2xl mb-5'>백광엔지니어링<span className='text-sm text-gray-500 ml-8'>영업관리부 / 과장 / 영업관리</span></p>
-            <p>육상플랜트 액체탱크 설비 업체</p>
+            <p className='text-2xl mb-5'>백광엔지니어링<span className='text-sm text-gray-500 ml-8'>관리부 / 과장 / 영업관리</span></p>
+            <p>육상플랜트 설비 업체</p>
             <ul className='font-["PaperLogy-4Regular"] space-y-2'>
               <li><span className='text-sky-600 mr-2'>▪</span>육상플랜트 액체탱크 설비 국내 및 해외영업 관리</li>
               <li><span className='text-sky-600 mr-2'>▪</span>국내 거래처 관리</li>
@@ -83,10 +83,10 @@ export default function Resume() {
 
         <div className='flex mt-10'>
           <div className='w-1/4'>
-            <p className='text-xl text-gray-600'>2014.03 ~ 2016.04</p>
+            <p className='text-xl text-gray-600'>2014.06 ~ 2015.12</p>
           </div>
           <div className='flex flex-col w-3/4 pl-20 mb-10'>
-            <p className='text-2xl mb-5'>정아정밀<span className='text-sm text-gray-500 ml-8'>해외영업팀 / 대리 / 무역사무</span></p>
+            <p className='text-2xl mb-5'>정아정밀<span className='text-sm text-gray-500 ml-8'>개발팀 / 대리 / 무역사무</span></p>
             <p>자동차 부품회사(바디, 프레임), GM 1차 벤더</p>
             <ul className='font-["PaperLogy-4Regular"] space-y-2'>
               <li><span className='text-sky-600 mr-2'>▪</span>자동차 부품 해외수출 Order 진행관리</li>
@@ -100,7 +100,7 @@ export default function Resume() {
 
         <div className='flex mt-10'>
           <div className='w-1/4'>
-            <p className='text-xl text-gray-600'>2011.03 ~ 2014.02</p>
+            <p className='text-xl text-gray-600'>2012.06 ~ 2013.08</p>
           </div>
           <div className='flex flex-col w-3/4 pl-20 mb-10'>
             <p className='text-2xl mb-5'>태흥시스템<span className='text-sm text-gray-500 ml-8'>영업부 / 주임 / 무역사무</span></p>
